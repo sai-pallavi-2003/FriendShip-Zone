@@ -3,12 +3,13 @@ This is a basic multi page HTML website where in various features of HTML have b
 
 **Features included**
 
-*Forms
+-Forms
 
-*Table
+-Table
 
-*Multi Page
+-Multi Page
 
+-Images and links wherever necessary
 
 
 Link to the website: https://sai-pallavi-2003.github.io/FriendShip-Zone/
