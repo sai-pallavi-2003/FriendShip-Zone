@@ -3,9 +3,9 @@ This is a Cap Stone project
 This is a basic HTML website where in various features of HTML have been displayed.
 
 **Features included**
-*Forms 
-*Table
-*Multi Page
+-Forms 
+-Table
+-Multi Page
 
 
 
