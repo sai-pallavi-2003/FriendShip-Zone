@@ -1,5 +1,5 @@
 # FriendShip-Zone
-This is a basic multi page HTML website where in various features of HTML have been displayed.
+This is a basic multi page HTML website wherein various features of HTML have been displayed.
 
 **Features included**
 
